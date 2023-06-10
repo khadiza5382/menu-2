@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+header{
+    background-color: #0E420B;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    font-size: 25px;
+    padding: 30px;
+}
+a{
+    text-decoration: none;
+    color:#F993E1;
+    transition: 0.8s;
+}
+a:hover{
+    text-decoration: underline;
+}
+#banner{
+    background-image:url(https://thehealthcaretechnologyreport.com/wp-content/uploads/2023/03/ChatGPT.jpeg);
+    height:700px;
+    width:100%;
+}
+section{
+    color:black;
+}
+h1{
+    font-size: 30px;
+    text-align:left;
+    transition: 0.8s;
+    padding: 20px;
+}
+h1:hover{
+    text-decoration: underline;
+}
+p{
+    padding: 20px;
+    font-size: 20px;
+    word-spacing: 15px;
+}
